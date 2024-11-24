@@ -1,7 +1,7 @@
 CCTV-1 综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-CCTV-2 财经,http://110.177.146.152:888/rtp/239.1.1.8:8008$山西电信组播源|1920x1080
-CCTV-2 财经,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000372/index.m3u8?$订阅源|IPv6
-CCTV-2 财经,http://122.9.151.210:8088/rtp/238.255.2.11:5999$贵州电信组播源
+CCTV-2 财经,http://60.178.149.202:4022/udp/233.50.200.25:5140
+CCTV-2 财经,http://60.178.149.202:4022/udp/233.50.200.100:5140
+CCTV-2 财经,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226795/index.m3u8
 CCTV-3 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV-4 中文国际,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV-5 体育,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
